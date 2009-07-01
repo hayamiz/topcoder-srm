@@ -11,7 +11,7 @@ int main(int argc, char ** argv){
 
     vector<string> tests;
     tests.push_back("123210122");
-    tests.push_back("123210120");
+    tests.push_back("12321012");
 
     for(int i = 0;i < tests.size();i++){
         print_result(bc.decode(tests[i]));
