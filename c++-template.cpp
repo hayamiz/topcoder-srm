@@ -15,7 +15,6 @@
 #include <csignal>
 #include <functional>
 #include <map>
-#include <strstream>
 #include <cctype>
 #include <cstdarg>
 #include <iomanip>
